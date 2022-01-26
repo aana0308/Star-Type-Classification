@@ -44,5 +44,5 @@ The goal of using a Decision Tree is to create a training model that can use to 
 In Decision Trees, for predicting a class label for a record we start from the root of the tree. We compare the values of the root attribute with the record’s attribute. On the basis of comparison, we follow the branch corresponding to that value and jump to the next node.
 
 ## Future Work
-Increase the accuracy score of both models, don't know how to do that as of now.
+N/A
 
